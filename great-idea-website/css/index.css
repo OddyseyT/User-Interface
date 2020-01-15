@@ -69,3 +69,11 @@ h2 {
 	text-transform: capitalize;
 }
 	
+h1 {
+	text-transform: capitalize;
+}
+
+#logopic {
+	display: inline;
+	align-items: right;
+}
