@@ -104,3 +104,23 @@ footer {
 	padding: 3%;
 	width: 80%;
 }
+button {
+	margin: auto;
+}
+
+#codesnippets {
+	display: inline-block;
+	margin: auto;
+	padding-left: 3%;
+	padding-right: 3%;
+}
+.format1 {
+	display: inline-block;
+	margin: auto;
+	width: 49%;
+}
+
+.format2 {
+	display: inline-block;
+	width: 31%;
+}
