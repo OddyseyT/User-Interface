@@ -77,3 +77,30 @@ h1 {
 	display: inline;
 	align-items: right;
 }
+
+.topofpage {
+	padding: 3%;
+	width: 80%;
+	border-top: 3px solid grey;
+}
+
+.middle {
+	padding: 3%;
+	width: 80%;
+	border-bottom: 3px solid grey;
+}
+.bottom {
+	padding: 3%;
+	width: 80%;
+}
+
+header {
+	padding: 5%;
+	width: 75%;
+}
+
+footer {
+	text-align: center;
+	padding: 3%;
+	width: 80%;
+}
