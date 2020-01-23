@@ -79,8 +79,8 @@ h1 {
 	text-align: center;
 }
 .navigation nav a{
-	width: 10%;
-	align-items: center;
+	padding-right: 5%;
+	padding-bottom: 3%;
 	color: darkgrey;
 text-decoration: none;
 }
@@ -92,11 +92,14 @@ text-decoration: none;
 }
 
 .topofpage {
-	padding: 3%;
+	padding-top: 3%;
+	padding-bottom: 3%;
 	border-top: 3px solid grey;
 }
 
 .middle {
+	padding-top: 3%;
+	padding-bottom: 3%;
 	border-bottom: 3px solid grey;
 }
 .bottom {
@@ -114,7 +117,9 @@ footer {
 	width: 80%;
 }
 button {
-	margin: 0 42%;
+	width: 40%;
+	margin: 0 30%;
+	background-color: white;
 }
 
 #codesnippets {
